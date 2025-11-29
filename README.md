@@ -20,30 +20,11 @@ Saya senang membuat sistem yang rapi, efisien, dan membantu pekerjaan menjadi le
 
 ---
 
-## Featured Project
-
-### **Blogger Auto Post Generator**
-
-Sebuah aplikasi berbasis GAPI + GSI + OAuth2 untuk membuat postingan Blogger secara otomatis:
-
-- Input judul, isi HTML, label
-- Penjadwalan posting terjadwal
-- Meta description
-- Integrasi penuh dengan Google API
-- UI ringan dan responsif
-
-Project ini menjadi fokus utama pengembangan saya di GitHub.
-
----
-
 ## Tech Stack
 
 - HTML, CSS, JavaScript
-- Google Apps Script
-- Blogger API v3, Google Identity Services, Google API Client
-- REST API Integration
-- JSON, OAuth2
-- Python (automation & yt-dlp)
+- Python
+- JavaScript
 
 ---
 
