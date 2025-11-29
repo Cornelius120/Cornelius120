@@ -1,36 +1,58 @@
 # Hi, I'm Cornelius 👋
 
-🎓 Student • 💻 Web Developer & Automation Enthusiast
+Saya seorang mahasiswa yang fokus dalam pengembangan web dan automasi berbasis JavaScript & Google Apps Script. Saya suka membuat tool kecil yang mempercepat pekerjaan, terutama yang terhubung dengan Blogger, API, atau sistem upload otomatis.
 
-## 🚀 About Me
+## About Me
 
-- Fokus pada pengembangan aplikasi web berbasis JavaScript & Google Apps Script
-- Berpengalaman membuat automasi untuk Blogger dan integrasi API
-- Suka membuat tool yang mempermudah pekerjaan sehari-hari
+Saya aktif mengerjakan berbagai proyek pribadi seperti:
 
-## 🧰 Tech Stack
+- Pengembangan aplikasi berbasis Google API (OAuth2, GSI, Blogger API)
+- Automasi proses upload gambar dan video
+- Pembuatan generator HTML & form untuk konten blog
+- Integrasi API dan layanan hosting file
+
+Kerja saya banyak berfokus pada efisiensi ✨ — membuat workflow lebih cepat, rapi, dan stabil.
+
+## Tech Stack
+
+Beberapa teknologi yang sering saya gunakan:
 
 - HTML, CSS, JavaScript
-- Google Apps Script (GAS)
+- Google Apps Script
 - Blogger API v3, Google API Client
 - Python (automation & yt-dlp)
-- REST API Integration
-- JSON, OAuth2, Webhooks
+- Integrasi REST API
+- JSON, OAuth2
 
-## 🗂 Featured Projects
+## Featured Projects
 
-- 🚀 **Blogger Auto Post Generator** (GAPI + GSI + OAuth2)
-- 🧩 **ImgBB Image Uploader & WYSIWYG Inserter**
-- 🎬 **Multi-Server Video Uploader**  
-  _(Streamtape, Mirrored.to, Filepress)_
-- 🛠 **Comic Info Generator** untuk Blogger
-- 📝 **Responsive HTML Form Generator** untuk konten Anime/Komik
+Beberapa proyek yang saya kerjakan dan terus saya kembangkan:
 
-## 📊 GitHub Stats
+### Blogger Auto Post Generator
+
+Sistem posting otomatis ke Blogger menggunakan GAPI + GSI + OAuth2.
+
+### ImgBB Image Uploader
+
+Sistem upload gambar dan penyisipan otomatis ke editor dengan kontrol posisi kursor.
+
+### Multi-Server Video Uploader
+
+Integrasi dengan Streamtape, Mirrored.to, dan Filepress untuk upload video secara paralel.
+
+### Comic Info Generator
+
+Generator informasi anime/komik berbasis HTML + JavaScript untuk keperluan Blogger.
+
+### Responsive HTML Form Generator
+
+Form khusus untuk postingan anime/komik agar struktur konten tetap rapi dan konsisten.
+
+## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Cornelius120&show_icons=true)
 
-## 🌐 Find Me
+## Contact
 
 - GitHub: https://github.com/Cornelius120
-- Email: sembiringcornelius18@gmail.com
+- Email: (isi email kamu di sini)
