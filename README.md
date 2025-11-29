@@ -24,7 +24,6 @@ Saya senang membuat sistem yang rapi, efisien, dan membantu pekerjaan menjadi le
 
 - HTML, CSS, JavaScript
 - Python
-- JavaScript
 
 ---
 
